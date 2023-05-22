@@ -1,9 +1,9 @@
 <?php
 
-define('DB_SRV', 'localhost');
-define('DB_PASSWD', "Summer@2023!");
-define('DB_USER', 'JDavies');
-define('DB_NAME', 'fsecusers');
+define('DB_SRV', 'REDACTED');
+define('DB_PASSWD', "REDACTED");
+define('DB_USER', 'REDACTED');
+define('DB_NAME', 'REDACTED');
 
 $connection = mysqli_connect(DB_SRV, DB_USER, DB_PASSWD, DB_NAME);
 
