@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cyberbotic</title>
-    <link>https://cyberbotic.io/</link>
-    <description>Recent content on Cyberbotic</description>
+    <title>FSEC Consulting</title>
+    <link>https://mohinparamasivam.github.io/fsec-consulting/</link>
+    <description>Recent content on FSEC Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cyberbotic.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohinparamasivam.github.io/fsec-consulting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acquisition</title>
-      <link>https://cyberbotic.io/blog/acquisition/</link>
+      <link>https://mohinparamasivam.github.io/fsec-consulting/blog/acquisition/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cyberbotic.io/blog/acquisition/</guid>
-      <description>&lt;p&gt;We are thrilled to annouce that Cyberbotic has been acquired by Zero-Point Security!&lt;/p&gt;</description>
+      <guid>https://mohinparamasivam.github.io/fsec-consulting/blog/acquisition/</guid>
+      <description>&lt;p&gt;We are thrilled to annouce that FSEC Consulting has been acquired by Zero-Point Security!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Why Machine Learning Is a Critical Defense Against Malware</title>
-      <link>https://cyberbotic.io/blog/ml/</link>
+      <link>https://mohinparamasivam.github.io/fsec-consulting/blog/ml/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cyberbotic.io/blog/ml/</guid>
+      <guid>https://mohinparamasivam.github.io/fsec-consulting/blog/ml/</guid>
       <description>&lt;p&gt;That statement, which he made a couple of years ago, is even truer today.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Going Beyond Malware: The Rise of &#34;Living off the Land&#34; Attacks</title>
-      <link>https://cyberbotic.io/blog/lotl/</link>
+      <link>https://mohinparamasivam.github.io/fsec-consulting/blog/lotl/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cyberbotic.io/blog/lotl/</guid>
+      <guid>https://mohinparamasivam.github.io/fsec-consulting/blog/lotl/</guid>
       <description>&lt;p&gt;You do not have the option to bring in supplies to maintain yourself. If you are looking for someone living off the land, you must hunt — as they have blended into their new environment.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://cyberbotic.io/about/</link>
+      <link>https://mohinparamasivam.github.io/fsec-consulting/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cyberbotic.io/about/</guid>
+      <guid>https://mohinparamasivam.github.io/fsec-consulting/about/</guid>
       <description>What We Do Endpoint Detection and Response (EDR) is redefining the standard for eliminating the malware problem once and for all. By innovating artificial intelligence and machine learning, we are creating the solution by proactively preventing, rather than reactively detecting, the execution of malware threats.
 Despite the cyber security industry continually evolving, malware detection has remained the same for decades. The approach has been linear whilst attackers have innovated and grown exponentially in sophistication - leaving organisations falling far behind.</description>
     </item>
